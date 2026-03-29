@@ -13,8 +13,7 @@ An AI-powered web app that explains code, concepts, or any text in a simple and 
 ---
 
 ## 📸 Demo
-![App Screenshot](![demo_explainanything](https://github.com/user-attachments/assets/75de97e8-3a3f-488f-b635-6dd6c6b1f5fb)
-)
+![App Screenshot](demo_explainanything.jpeg)
 
 ---
 
