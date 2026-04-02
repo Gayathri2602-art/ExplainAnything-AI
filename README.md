@@ -12,8 +12,12 @@ Simple and easy-to-use interface
 
 Real-time AI responses
 
+---
+
 ## 📸 Demo
 ![App Screenshot](demo_explainanything.jpeg)
+
+---
 
 ## 🛠️ Tech Stack
 Python
@@ -21,6 +25,8 @@ Python
 Gradio
 
 Gemini API
+
+----
 
 ## ⚙️ How It Works
 
@@ -34,19 +40,26 @@ The AI generates a simple explanation
 
 The output is displayed instantly
 
+---
+
 ## 🧩 Technical Implementation
 
 🔹 Architecture
 User Input → Gradio UI → Python Backend → Gemini API → Response → UI
 
+---
+
 ## ▶️ Run the App
 
 python explain_anything.py
+
+---
 
 ## 🔑 Setup API Key
 
 export GOOGLE_API_KEY="your_api_key"
 
+---
 
 ## 💡 Future Improvements
 
