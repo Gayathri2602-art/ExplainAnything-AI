@@ -2,6 +2,8 @@
 
 An AI-powered web app that explains code, concepts, or any text in a simple and clear way using Gemini and Gradio.
 
+----
+
 ## 🚀 Features
 
 Explain code and concepts
@@ -45,7 +47,8 @@ python explain_anything.py
 
 export GOOGLE_API_KEY="your_api_key"
 
-💡 Future Improvements
+
+## 💡 Future Improvements
 
 🧠 Multiple explanation levels (Beginner / Advanced)
 
