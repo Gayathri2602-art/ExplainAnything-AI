@@ -2,7 +2,7 @@
 
 An AI-powered web app that explains code, concepts, or any text in a simple and clear way using Gemini and Gradio.
 
-----
+---
 
 ## 🚀 Features
 
